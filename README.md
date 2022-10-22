@@ -1,5 +1,5 @@
 # Homebrew-Channel-Launcher-Wii-U
-Except with 3DS icons
+With updated icons.
 
 # Credits
 ihaveamac for nuspacker (https://github.com/ihaveamac/)
